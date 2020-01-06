@@ -67,4 +67,6 @@ target 'nativeTemplate' do
   pod 'IQKeyboardManagerSwift'
 
   pod 'CodePush', :path => '../node_modules/react-native-code-push'
+  pod 'react-native-fast-image', :path => '../node_modules/react-native-fast-image'
+
 end
